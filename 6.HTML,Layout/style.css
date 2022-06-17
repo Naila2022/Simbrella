@@ -1,0 +1,250 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 0 14rem;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    background-color: transparent;
+    
+}
+
+.header-all{
+    display: flex;
+    justify-content: space-between;
+    padding-top:20px ;
+}
+
+.navbar a{
+    color: black;
+    margin: 0 10px;
+
+}
+
+.First{
+    background-image: url(https://www.simbrella.com/site/assets/files/1040/cover.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 15rem 0;
+    width: 100%;
+        
+    position: relative;
+}
+
+.first-text{
+   text-align: left;
+    color: white;
+
+}
+
+.first-text h1{
+    font-size: 40px;
+    
+}
+
+.scroll-logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    width: 13%;
+    position: absolute;
+    bottom: 20px;
+    
+    
+}
+
+.scroll-logo p{
+    
+    color: white;
+    
+}
+
+
+.second{
+    padding: 10rem 0;
+}
+
+.second-all{
+    display: flex;
+    justify-content: space-between;
+}
+
+.second-text{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 10px 0  ;
+    
+}
+
+.second-text h2{
+    color: #2D3192;
+ 
+}
+
+.second-text a{
+    background-color: white;
+   color: black;
+   border: 2px solid gray;
+   border-radius: 5px;
+   padding:10px 40px;
+   text-align: left;
+   
+}
+
+.second-all .box{
+    width: 30%;
+    border: 1px solid ;
+    text-align: center;
+    border: 1px solid #5555;
+    padding-bottom: 120px;
+
+    
+}
+
+.second-all .box textarea{
+    margin-top: 20px;
+}
+
+.box svg{
+ width: 100%;
+ 
+} 
+
+.text-area{
+   margin: 10px 5px;
+}
+
+.text-area h3{
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+
+.text-area p{
+   padding: 10px 40px 0;
+   color: gray;
+   font-size: 18px;
+   
+}
+
+.Third{
+    background-image: url(https://www.simbrella.com/site/assets/files/1049/solutions_bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10rem 0;
+    
+}
+
+
+.third-all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.right{
+    background-color: rgba(28, 15, 153, 0.441);
+    width: 100%;
+}
+.right .text  h4{
+    color: white;
+    margin: 30px 0;
+    font-size: 30px;
+   border-bottom: 1px solid rgba(255, 255, 255, 0.305);
+}
+
+.left h1{
+    color: white;
+    font-size: 60px;
+    font-weight: bold;
+    width: 50%;
+}
+
+.Fourth{
+    padding: 2rem 0 8rem;
+}
+
+.top{
+    color: #2D3192;
+    width: 100%;
+    margin-top: 6rem;
+}
+
+.bottom .text-all{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 7rem;
+}
+
+.text-box h2{
+    font-size: 48px;
+    font-weight: bold;
+    color: #FF931E;
+    padding-bottom: 10px;
+}
+
+.text-box p{
+    font-size: 14;
+    font-weight: 500;
+
+}
+
+.Clients{
+    background-color: #F6F8FE;
+}
+
+.clients-text{
+    text-align: left;
+    color: #2D3192;
+    font-size: 30px;
+    padding-bottom: 20px;
+
+}
+.box-all{
+    display: flex;
+    justify-content: space;
+    flex-wrap: wrap;
+    
+}
+.Clients .box-all .box{
+    width: 22%;
+    background-color: white;
+    margin: 15px 15px;
+    
+}
+
+.Clients .box-all .box img{
+    width: 100%;
+   padding: 40px;
+   height: 160px;
+}
+
+.Clients .box-all .box-t{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.box-t h4{
+    font-weight: bold;
+    font-size: 36px;
+    padding: 0 40px;
+} 
+
+
+
+
+
+
